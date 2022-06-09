@@ -1,0 +1,20 @@
+{
+  "ActiveTargetSystem": "WSL: Ubuntu",
+  "MRUPresetsPerTargetSystem": {
+    "本地计算机": {
+      "configure": "x64-debug"
+    }
+  },
+  "ExpandedNodes": [
+    "",
+    "\\CH2",
+    "\\out\\build",
+    "\\out\\build\\x64-debug\\.cmake",
+    "\\out\\build\\x64-debug\\.cmake\\api",
+    "\\out\\build\\x64-debug\\.cmake\\api\\v1",
+    "\\out\\build\\x64-debug\\CMakeFiles",
+    "\\out\\build\\x64-debug\\Testing"
+  ],
+  "SelectedNode": "\\CH2\\libHelloSlam.h",
+  "PreviewInSolutionExplorer": false
+}
